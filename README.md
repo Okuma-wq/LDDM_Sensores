@@ -1,1 +1,0 @@
-# LDDM_Sensores
